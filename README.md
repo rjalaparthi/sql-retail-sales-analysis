@@ -42,6 +42,14 @@ sql-retail-sales-analysis/
 └── queries/
     ├── 01_aggregations.sql
     ├── 02_joins.sql
+
+## Next Steps
+
+- Window functions
+- CTEs
+- Date-based analysis
+- Query performance with `EXPLAIN`
+- PySpark / Databricks implementation
     ├── 03_subqueries.sql
     ├── 04_correlated_subqueries.sql
     ├── 05_exists_not_exists.sql
