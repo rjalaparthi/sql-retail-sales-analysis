@@ -42,6 +42,11 @@ sql-retail-sales-analysis/
 └── queries/
     ├── 01_aggregations.sql
     ├── 02_joins.sql
+    ├── 03_subqueries.sql
+    ├── 04_correlated_subqueries.sql
+    ├── 05_exists_not_exists.sql
+    └── 06_mixed_business_questions.sql
+```
 
 ## Next Steps
 
@@ -50,7 +55,3 @@ sql-retail-sales-analysis/
 - Date-based analysis
 - Query performance with `EXPLAIN`
 - PySpark / Databricks implementation
-    ├── 03_subqueries.sql
-    ├── 04_correlated_subqueries.sql
-    ├── 05_exists_not_exists.sql
-    └── 06_mixed_business_questions.sql
